@@ -7,15 +7,19 @@ const SearchBar = ({ onSearch }) => {
   const [searchQuery, setsearchQuery] = useState("");
 
   const handleKeyDown = (event) => {
-    if (event.key === "Enter") {
+      if (event.key === "Enter") {
       onSearch(searchQuery);
     }
   };
 
+  const handleSubmit = event => {
+    event.preventDefault()
+  }
+
   return (
     <>
       <div className="searchBar--wrap">
-        <form>
+        <form onSubmit={handleSubmit}>
           <div className="search">
             <div className="searchIcon">
               <img src={searchIcon} alt="Google_Img" />
