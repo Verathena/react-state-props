@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-state-props.git/static/css/main.5aad6bcb.css",
+    "main.js": "/react-state-props.git/static/js/main.ee9d9f13.js",
+    "static/js/787.6e4b18c3.chunk.js": "/react-state-props.git/static/js/787.6e4b18c3.chunk.js",
+    "static/media/profile-image-icon.PNG": "/react-state-props.git/static/media/profile-image-icon.e39367c7d6b260003ccc.PNG",
+    "index.html": "/react-state-props.git/index.html",
+    "static/media/image-icon.PNG": "/react-state-props.git/static/media/image-icon.ee4b21ccb67203c63110.PNG",
+    "static/media/carbon-icon.PNG": "/react-state-props.git/static/media/carbon-icon.3d20ed8482d486937071.PNG",
+    "static/media/search-icon.PNG": "/react-state-props.git/static/media/search-icon.aae829821c1ea73e7aeb.PNG",
+    "main.5aad6bcb.css.map": "/react-state-props.git/static/css/main.5aad6bcb.css.map",
+    "main.ee9d9f13.js.map": "/react-state-props.git/static/js/main.ee9d9f13.js.map",
+    "787.6e4b18c3.chunk.js.map": "/react-state-props.git/static/js/787.6e4b18c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5aad6bcb.css",
+    "static/js/main.ee9d9f13.js"
+  ]
+}
